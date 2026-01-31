@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "weather-forecast-app",
+  "public": true,
+  "github": {
+    "enabled": false
+  }
+}
